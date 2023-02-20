@@ -1,0 +1,5 @@
+[{"distance": {"unit": "km", "value": 1}, "convert_to": "m"},
+    {"distance": {"unit": "m", "value": 500}, "convert_to": "f"},
+    {"distance": {"unit": "cm", "value": 5}, "convert_to": "mm"},
+    {"distance": {"unit": "mm", "value": 5000000}, "convert_to": "ft"},
+    {"distane": {"unit": "km", "value": 5}, "convert_to": "yd"}]
